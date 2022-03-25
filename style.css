@@ -1,0 +1,27 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #display
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#em1 ,#em2  
+{
+  color: black;
+}
+.emotionname
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
